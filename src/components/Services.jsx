@@ -1,7 +1,7 @@
 import React from "react";
-import Automation from "../Assets/automation.png";
-import RPA from "../Assets/robotic-process-automation.png";
-import Consultation from "../Assets/consultation.png";
+import Automation from "../assets/automation.png";
+import RPA from "../assets/robotic-process-automation.png";
+import Consultation from "../assets/consultation.png";
 
 const Services = () => {
   const workInfoData = [
