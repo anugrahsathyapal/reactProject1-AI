@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../assets/Vector (1).png";
+import logo from "../assets/Vector.png";
 import { HiOutlineBars3 } from "react-icons/hi2";
 import {
   Drawer,
